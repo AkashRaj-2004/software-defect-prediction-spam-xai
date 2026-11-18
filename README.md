@@ -44,4 +44,4 @@ The last column of each CSV must be the defect label. The script prints metrics 
 | PC2 | - | - | - |
 
 ## Authors
-Akash Raj A and Sundara Krishnan S. Guide: Dr. Ganesh Karthikeyan V.
+Akash Raj.A  Guide: Dr. Ganesh Karthikeyan V.
